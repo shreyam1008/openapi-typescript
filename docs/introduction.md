@@ -30,7 +30,7 @@ _Note: OpenAPI 2.x is supported with versions `5.x` and previous_
 
 ## Setup
 
-This library requires the latest version of [Node.js](https://nodejs.org) installed (20.x or higher recommended). With that present, run the following in your project:
+This library requires the latest version of [Node.js](https://nodejs.org) installed (20.x or higher recommended). For TypeScript 7 applications, follow the separate tooling setup in the warning below instead of changing your application's compiler. Otherwise, run the following in your project:
 
 ```bash
 npm i -D openapi-typescript typescript@5
